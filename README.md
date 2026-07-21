@@ -56,14 +56,14 @@ My personal developer portfolio showcasing my skills, projects and journey in we
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umair-webdev&show_icons=true&theme=tokyonight&hide_border=true" alt="Umair's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=umair-webdev&theme=tokyonight&hide_border=true" alt="Umair's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umair-webdev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umair-webdev&theme=tokyonight" alt="Umair's GitHub Profile Summary" />
 </p>
 
 ---
