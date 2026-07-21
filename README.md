@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Front-End Web Developer from India 🚀</h3>
 
 <p align="center">
-  <a href="https://umair-webdev.github.io/MyPortfoilio/">
+  <a href="https://umair-webdev.github.io/MyPortfolio/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:uk306927@gmail.com">
@@ -52,7 +52,7 @@ A responsive business website concept designed to showcase company information a
 ### 🌐 Personal Portfolio
 My personal developer portfolio showcasing my skills, projects and journey in web development.
 
-👉 [**View Live Portfolio**](https://umair-webdev.github.io/MyPortfoilio/)
+👉 [**View Live Portfolio**](https://umair-webdev.github.io/MyPortfolio/)
 
 ---
 
@@ -76,7 +76,7 @@ My goal is to start my career in **Web Development**, gain real-world industry e
 
 ## 🤝 Connect With Me
 
-- 🌐 **Portfolio:** [umair-webdev.github.io/MyPortfoilio](https://umair-webdev.github.io/MyPortfoilio/)
+- 🌐 **Portfolio:** [umair-webdev.github.io/MyPortfolio](https://umair-webdev.github.io/MyPortfolio/)
 - 💻 **GitHub:** [@umair-webdev](https://github.com/umair-webdev)
 - 📧 **Email:** uk306927@gmail.com
 
