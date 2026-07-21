@@ -39,15 +39,12 @@
 
 ## 🚀 Featured Projects
 
-### 🍽️ Nahid Caterers — Quotation Generator
-A web-based catering quotation system focused on quotation creation, management, mobile responsiveness, Firebase integration, cloud features and PWA functionality.
+### 📝 Modern To-Do App
+A modern and responsive task management application built with HTML, CSS and JavaScript. It includes task creation, completion tracking, filters, LocalStorage persistence and dark/light mode.
 
-**Tech:** `HTML` • `CSS` • `JavaScript` • `Firebase` • `PWA`
+**Tech:** `HTML` • `CSS` • `JavaScript` • `LocalStorage`
 
-### 🏗️ Sai Darshan Construction — Business Website
-A responsive business website concept designed to showcase company information and provide customer contact functionality.
-
-**Tech:** `HTML` • `CSS` • `JavaScript` • `Responsive Design`
+👉 [**View Live App**](https://umair-webdev.github.io/Modern-ToDo-App/) • [**View Repository**](https://github.com/umair-webdev/Modern-ToDo-App)
 
 ### 🌐 Personal Portfolio
 My personal developer portfolio showcasing my skills, projects and journey in web development.
